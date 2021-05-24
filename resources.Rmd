@@ -6,6 +6,10 @@ output: html_document
 - TODO: add resources!
 - TODO: create website!
 
+## References
+
+- [Excuse me, do you have a moment to talkabout version control?](https://peerj.com/preprints/3159.pdf)
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/)
 
 ## Illinois Courses
 
