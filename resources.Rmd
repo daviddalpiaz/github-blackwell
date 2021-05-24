@@ -5,3 +5,13 @@ output: html_document
 
 - TODO: add resources!
 - TODO: create website!
+
+
+## Illinois Courses
+
+- STAT 107
+- STAT 207
+- STAT 385
+- STAT 430
+- STAT 440
+- STAT 447
