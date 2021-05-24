@@ -1,5 +1,7 @@
 ---
 title: "GitHub Resources"
+author: David Dalpiaz and Chris Kinson
+date: May 26, 2021
 output: html_document
 ---
 
