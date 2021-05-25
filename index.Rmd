@@ -18,6 +18,6 @@ output:
 - STAT 107 Data Science Discovery
 - STAT 207 Data Science Exploration
 - STAT 385 Statistics Programming Methods
-- STAT 430 Python in Data Science Program
-- STAT 440 Statical Data Management
+- STAT 430 Python in Data Science Programming
+- STAT 440 Statistical Data Management
 - STAT 447 Data Science Programming Methods
