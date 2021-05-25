@@ -2,7 +2,10 @@
 title: "GitHub Resources"
 author: David Dalpiaz and Chris Kinson
 date: May 26, 2021
-output: html_document
+output:
+  prettydoc::html_pretty:
+    theme: hpstr
+    highlight: github
 ---
 
 ## References
