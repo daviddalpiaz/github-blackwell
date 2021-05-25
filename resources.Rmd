@@ -12,9 +12,9 @@ output: html_document
 
 ## Illinois Courses
 
-- STAT 107
-- STAT 207
-- STAT 385
-- STAT 430
-- STAT 440
-- STAT 447
+- STAT 107 Data Science Discovery
+- STAT 207 Data Science Exploration
+- STAT 385 Statistics Programming Methods
+- STAT 430 Python in Data Science Program
+- STAT 440 Statical Data Management
+- STAT 447 Data Science Programming Methods
