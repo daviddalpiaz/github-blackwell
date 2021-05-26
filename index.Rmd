@@ -8,7 +8,22 @@ output:
     highlight: github
 ---
 
-## References
+## Background Information
+
+- [Wikipedia: git](https://en.wikipedia.org/wiki/Git)
+- [Wikipedia: GitHub](https://en.wikipedia.org/wiki/GitHub)
+
+## Official Websites
+
+- [git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+
+## Official Tutorials
+
+- [git Tutorial](https://git-scm.com/docs/gittutorial)
+- [GitHub Tutorial](https://guides.github.com/)
+
+## Additional References
 
 - [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159.pdf)
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/)
