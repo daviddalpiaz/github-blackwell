@@ -15,9 +15,9 @@ output:
 
 ## Illinois Courses
 
-- STAT 107 Data Science Discovery
-- STAT 207 Data Science Exploration
-- STAT 385 Statistics Programming Methods
-- STAT 430 Python in Data Science Programming
-- STAT 440 Statistical Data Management
-- STAT 447 Data Science Programming Methods
+- STAT 107 [Data Science Discovery](https://courses.illinois.edu/schedule/2021/fall/STAT/107)
+- STAT 207 [Data Science Exploration](https://courses.illinois.edu/schedule/2021/fall/STAT/207)
+- STAT 385 [Statistics Programming Methods](https://courses.illinois.edu/schedule/2021/fall/STAT/385)
+- STAT 430 [Python in Data Science Programming](https://courses.illinois.edu/schedule/2021/fall/STAT/430)
+- STAT 440 [Statistical Data Management](https://courses.illinois.edu/schedule/2021/fall/STAT/440)
+- STAT 447 [Data Science Programming Methods](https://courses.illinois.edu/schedule/2021/fall/STAT/447)
